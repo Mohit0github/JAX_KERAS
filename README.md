@@ -1,1 +1,2 @@
-# JAX_KERAS
+miniGPT: A Minimal GPT Implementation with JAX and Flax
+miniGPT is a simplified generative pre-trained transformer (GPT) model built using JAX and Flax. It demonstrates the implementation of core large language model (LLM) components—including self-attention, feed-forward networks, and transformer blocks—in a modular and educational format. This repository is intended as a learning resource, showcasing end-to-end workflows for training and evaluating transformer models with performance optimizations for GPUs/TPUs.
